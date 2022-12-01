@@ -9,6 +9,7 @@ Social Depression Tracker
 - Yasser AlOmar
 - Khalid Alghamdy
 - Meshari Alqahtani
+- Razan Altamimi
 
 ### Objectives:
 We aim to create a model that can detect if a person is depressed or not based on their text patterns on social media.

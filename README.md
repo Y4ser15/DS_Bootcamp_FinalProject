@@ -6,9 +6,9 @@ Social Depression Tracker
 
 
 ### Group Members:
-- Yasser AlOmar ( back-end )
-- Khalid Alghamdy ( nlp modeling )
-- Meshari Alqahtani ( front-end ) 
+- Yasser AlOmar ( front-end, back-end )
+- Khalid Alghamdy ( nlp modeling, front-end, back-end )
+- Meshari Alqahtani ( EDA ) 
 - Razan Altamimi ( web scrabing )
 
 ### Objectives:

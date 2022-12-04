@@ -24,5 +24,5 @@ We aim to create a model that can detect if a person is depressed or not based o
 https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch
 
 ### The expected (Machine learning / Deep Learning) Algorithms:
-Machine Learning / Natural Language Processing.
+Deep Learning / Natural Language Processing.
 

@@ -6,10 +6,10 @@ Social Depression Tracker
 
 
 ### Group Members:
-- Yasser AlOmar ( front-end, back-end )
+- Yasser AlOmar ( dashboard,front-end, back-end )
 - Khalid Alghamdy ( nlp modeling, front-end, back-end )
 - Meshari Alqahtani ( EDA ) 
-- Razan Altamimi ( web scrabing )
+- Razan Altamimi ( web scrabing, persentasion )
 
 ### Objectives:
 We aim to create a model that can detect if a person is depressed or not based on their text patterns on social media.

@@ -2,7 +2,7 @@
 
 
 ### Project Title:
-Social Depression Tracker
+Social Depression Analyzer
 
 
 ### Group Members:
